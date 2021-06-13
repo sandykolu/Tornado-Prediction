@@ -107,11 +107,3 @@ Objectives
 * Dashboard - 
 
 ![](https://github.com/tornado-predictions/tornado/blob/poonam/poonam_final_project_ML/images/tornado%20prediction%20dashboard.png)
-
-## Team Members:
-
-* Ajinkya Bhosle
-* Sandeep Kolwalkar
-* Brie Pfisterer
-* Ryan Strong
-* Poonam Tashildar
